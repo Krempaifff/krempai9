@@ -27,12 +27,11 @@
             line-height: 1.6;
         }
 
-        .container {
-            width: 100%;
-            max-width: 100px;
-            margin: 0 auto;
-            padding: 0 15px;
-        }
+     .container {
+    width: 100%;
+    margin: 0;
+    padding: 0 15px;
+}
 
         /* Header Styles */
         header {
