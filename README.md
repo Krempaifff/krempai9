@@ -972,27 +972,3 @@
     </script>
 </body>
 </html>
-/* Убрать белые бока и сделать на полный экран */
-body {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-}
-
-.container {
-    max-width: 100% !important;
-    padding: 0 15px;
-}
-
-header, .hero, .categories, .features, footer {
-    width: 100%;
-}
-
-/* Сделать секции на всю ширину */
-.hero {
-    padding: 80px 0;
-}
-
-.content-section {
-    padding: 60px 0;
-}
